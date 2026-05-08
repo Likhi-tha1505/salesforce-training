@@ -30,15 +30,57 @@ i.Account
 ii.Contact
 iii.Opportunity
 
-Q4.Difference between Salesforce Admin and Developer 
+Q4.Difference between Salesforce Admin and Developer.
 ANS:
 i.Salesforce Admin
 *Manages users, security, reports, and dashboards
-Configures Salesforce without much coding
-Creates workflows and automations
-Maintains and monitors the Salesforce system
-Salesforce Developer
-Develops custom applications and features
-Uses coding languages like Apex and Lightning Web Components (LWC)
-Creates integrations with other applications
-Builds custom business logic and functionalities
+*Configures Salesforce without much coding
+*Creates workflows and automations
+*Maintains and monitors the Salesforce system
+ii.Salesforce Developer
+*Develops custom applications and features
+*Uses coding languages like Apex and Lightning Web Components (LWC)
+*Creates integrations with other applications
+*Builds custom business logic and functionalities
+
+Q5.Suggest one real-world application that can be built using Salesforce.
+ANS:
+A Hospital Management System can be built using Salesforce.
+Features:
+i.Patient record management
+ii.Appointment scheduling
+iii.Doctor and staff management
+iv.Billing and reports
+v.Automated notifications for appointments
+This helps hospitals manage patient services efficiently.
+
+Q6.Why companies use Salesforce.
+ANS:
+Companies use Salesforce to:
+i.Store customer information in one place
+ii.Manage sales and leads easily
+iii.Improve customer service
+iv.Automate business processes
+v.Generate reports and dashboards
+vi.Increase productivity and business growth
+
+Q7.Explain:
+ANS:
+i.Account:
+An Account represents a company, organization, or customer business in Salesforce.
+Example: Infosys, TCS, Amazon.
+ii.Contact:
+A Contact represents a person associated with an Account.
+Example: Manager or employee working in a company.
+iii.Opportunity:
+An Opportunity represents a potential sales deal or business chance.
+Example: A company planning to purchase software services.
+
+Q8.Your Real-World Mapping
+ANS:
+i.Account
+College or Organization
+ii.Contact
+Student or Faculty member
+iii.Opportunity
+Student admission or placement opportunity
